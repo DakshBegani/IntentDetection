@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# IntentDetection
-=======
 # Intent Detection
 
 This project implements an intent detection model using BERT (Bidirectional Encoder Representations from Transformers). The model is trained to classify user queries into predefined intent categories, making it suitable for conversational AI applications.
